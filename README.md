@@ -10,11 +10,11 @@
 <br>
 <img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/9c65fd39-3854-4d3d-8828-06ab4faced0f" /><br>
 <br>
-3 - Select "Install client" and allow the the program to run\
+3 - Select "Install client" and allow the the program to run<br>
 <br>
-4 - Once the installation is complete open your minecraft launcher select the "Installations" tab, locate the NeoForge installation and press play\
+4 - Once the installation is complete open your minecraft launcher select the "Installations" tab, locate the NeoForge installation and press play<br>
 <br>
-5 - Once the game has launched into NeoForge, close the game so that you can now install the modpack\
+5 - Once the game has launched into NeoForge, close the game so that you can now install the modpack<br>
 <br>
 ### **_Modpack Installation_**<br>
 <br>
