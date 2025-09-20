@@ -4,7 +4,7 @@
 
 ### **_NeoForge Client Installation_**
 
-1 - Download the "neoforge-21.8.47-installer.jar" file<br>
+1 - Download the "neoforge-xx.x.xx-installer.jar" file<br>
 <br>
 2 - Run this file and wait for this prompt to appear<br>
 <br>
@@ -18,7 +18,7 @@
 <br>
 ### **_Modpack Installation_**<br>
 <br>
-1 - Download the "SERVER 1.21.8 NeoForge Modpack.zip" file<br>
+1 - Download the "Modpack.zip" file<br>
 <br>
 2 - Locate you downloads folder (C:\Users\[yourUser]\Downloads) and unzip the file<br>
 <br>
