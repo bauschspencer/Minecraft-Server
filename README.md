@@ -30,6 +30,6 @@
   <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.2 - Open the .minecraft folder -> open mods folder<br>
 <br>
-5 - Paste the .jar files you copied ealier from the modpoad foler into your mods folder<br>
+5 - Paste the .jar files you copied ealier from the modpack zip file into your mods folder<br>
 <br>
 6 - Launch NeoForge and make sure all of the mods have loaded properly
