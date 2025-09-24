@@ -32,4 +32,10 @@
 <br>
 5 - Paste the .jar files you copied ealier from the modpack zip file into your mods folder<br>
 <br>
-6 - Launch NeoForge and make sure all of the mods have loaded properly
+6 - Launch NeoForge and make sure all of the mods have loaded properly<br>
+<br>
+<br>
+<br>
+Mod List<br>
+https://1drv.ms/x/c/9edc6f86c1e4ec40/EUG3a7oCTSVGo8pJlBF7o-4Bl--okXc4mgzSJMQGk2XbIg?e=cVJL0t&nav=MTVfezE0RThDMzE1LTA0QzMtNDFFNS05Mjg4LThEOEJCM0Y4NzA1NX0
+
